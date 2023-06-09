@@ -1,0 +1,37 @@
+.student-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-field {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  .student-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  .student-list li {
+    margin-bottom: 5px;
+  }
+  
+  .student-list li button {
+    margin-left: 10px;
+  }
+  

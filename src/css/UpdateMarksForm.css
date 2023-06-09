@@ -1,0 +1,22 @@
+/* styles.css */
+
+.update-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .update-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .update-form input {
+    margin-left: 10px;
+  }
+  
+  .update-form button {
+    margin-top: 20px;
+  }
+  
